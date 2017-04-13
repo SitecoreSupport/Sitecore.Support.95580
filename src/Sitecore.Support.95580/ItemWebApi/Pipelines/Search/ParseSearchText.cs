@@ -57,7 +57,7 @@
             {
                 text = text.Replace("  ", " ");
             }
-            return ("*" + text.Trim().Replace(" ", "* *") + "*"); // Sitecore.Support.95580
+            return text.Trim(); // Sitecore.Support.95580
         }
 
         private IQueryable<ConvertedSearchResultItem> Parse(IProviderSearchContext providerSearchContext, string searchText)
