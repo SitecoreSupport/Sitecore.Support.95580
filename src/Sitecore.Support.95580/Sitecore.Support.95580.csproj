@@ -41,23 +41,23 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Sitecore.ContentSearch">
-      <HintPath>..\packages\SC.Sitecore.ContentSearch.9.0.2\lib\Sitecore.ContentSearch.dll</HintPath>
+      <HintPath>..\packages\SC.Sitecore.ContentSearch.9.0.1\lib\Sitecore.ContentSearch.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.ContentSearch.Linq">
-      <HintPath>..\packages\SC.Sitecore.ContentSearch.Linq.9.0.2\lib\Sitecore.ContentSearch.Linq.dll</HintPath>
+      <HintPath>..\packages\SC.Sitecore.ContentSearch.Linq.9.0.1\lib\Sitecore.ContentSearch.Linq.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.ItemWebApi">
-      <HintPath>..\packages\SC.Sitecore.ItemWebApi.9.0.2\lib\Sitecore.ItemWebApi.dll</HintPath>
+      <HintPath>..\packages\SC.Sitecore.ItemWebApi.9.0.1\lib\Sitecore.ItemWebApi.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Kernel">
-      <HintPath>..\packages\SC.Sitecore.Kernel.9.0.2\lib\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\packages\SC.Sitecore.Kernel.9.0.1\lib\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Speak.ItemWebApi">
-      <HintPath>..\packages\SC.Sitecore.Speak.ItemWebApi.9.0.2\lib\Sitecore.Speak.ItemWebApi.dll</HintPath>
+      <HintPath>..\packages\SC.Sitecore.Speak.ItemWebApi.9.0.1\lib\Sitecore.Speak.ItemWebApi.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
